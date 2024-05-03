@@ -1,0 +1,3 @@
+Para fazer a referência de um livro conforme a ABNT, deve-se escrever: SOBRENOME, Nome Abreviado. Título: subtítulo. Edição. Local de publicação: Editora, data de publicação da obra.
+Ex:
+SILVA, Maria do Carmo. Atlas Geográfico. 8. ed. São Paulo: Faces, 2000.
